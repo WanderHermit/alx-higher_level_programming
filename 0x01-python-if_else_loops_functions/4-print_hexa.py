@@ -1,2 +1,2 @@
-for h in range(0,99):
-    print('h = hex(h)')
+for num in range(99):
+    print("{:d} = {:s}".format(num, hex(num)))
