@@ -5,5 +5,4 @@
 
 class Square:
 	"""Make a class called square"""
-
 	pass
