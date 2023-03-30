@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
-"""Make this file executable"""
+"""Define a class Square."""
 
 
 class Square:
-	"""Make a class called square"""
-	pass
+    """Represent a square."""
+    pass
