@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-"""Class that inherits from another class."""
+"""
+
+contains the MyList class.
+"""
 
 
 class MyList(list):
