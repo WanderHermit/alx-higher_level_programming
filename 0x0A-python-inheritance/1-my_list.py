@@ -2,12 +2,9 @@
 """Class that inherits from another class."""
 
 
-def print_sorted(list):
-    """Public instance method"""
-    class list:
-        """Class from which MyList inherits"""
-        pass
+class MyList(list):
+    """Print a sorted list."""
 
-    class MyList:
-        """Child class of the parent object List."""
-        pass
+    def print_sorted(self):
+        """Prints a list in a sorted order."""
+        print(sorted(self))
