@@ -1,2 +1,2 @@
 /*Select all tables from database*/
-SELECT *
+SHOW ALL
