@@ -1,2 +1,2 @@
-/*Select all tables from database*/
-SHOW DATABASES
+--Select all tables from my database
+SHOW DATABASES;
